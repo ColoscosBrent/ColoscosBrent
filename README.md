@@ -34,11 +34,13 @@ programming, networking, and computer engineering skills.
 
 ## 🏆 Certifications
 
-### Cisco Networking Academy
+### 🔐 Cisco Networking Academy
 
-Certificate issued: September 11, 2026
+**Cybersecurity Certificate**
 
-📄 Certificate will be added soon.
+Issued: September 11, 2026
+
+📄 [View Certificate](./Cisco-NetAcad-Cybersecurity-Certificate.pdf)
 
 ## 🎯 Goal
 
