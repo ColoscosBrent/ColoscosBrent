@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Brent 👋
 
-<!--
-**ColoscosBrent/ColoscosBrent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
 
-Here are some ideas to get you started:
+I'm currently learning and exploring:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Programming
+- 🌐 Computer Networking
+- 🔐 Cybersecurity
+- 🔌 Embedded Systems
+
+## 🛠️ Skills I'm Learning
+
+- C
+- Java
+- Git & GitHub
+- Cisco Networking
+- Cisco Packet Tracer
+- Arduino
+- Basic Cybersecurity
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Computer Networks
+- Operating Systems
+- Software Design
+- Embedded Systems
+
+## 🚀 Projects
+
+I'm building projects and school activities to improve my
+programming, networking, and computer engineering skills.
+
+## 🏆 Certifications
+
+### Cisco Networking Academy
+
+Certificate issued: September 11, 2026
+
+📄 Certificate will be added soon.
+
+## 🎯 Goal
+
+To continuously improve my technical skills through
+projects, hands-on practice, and learning.
