@@ -1,4 +1,4 @@
-# Hi, I'm Brent 👋
+Hi, I'm Brent Gian Coloscos
 
 🎓 Computer Engineering Student
 
