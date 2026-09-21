@@ -45,7 +45,7 @@ Issued: September 11, 2026
 📄 [View Certificate](./Cisco-NetAcad-Cybersecurity-Certificate.pdf)
 
 
-###  Introduction to Greenhouse Gas Accounting for IT
+**Introduction to Greenhouse Gas Accounting for IT**
 
 issued: September 22,2026
  
