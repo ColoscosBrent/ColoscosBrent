@@ -42,6 +42,12 @@ Issued: September 11, 2026
 
 📄 [View Certificate](./Cisco-NetAcad-Cybersecurity-Certificate.pdf)
 
+### 🌱 Introduction to Greenhouse Gas Accounting for IT
+
+**Cisco Networking Academy**
+
+🏅 [View Credly Badge](https://www.credly.com/badges/333db032-5e68-4918-ae34-447f04bbbc3a/public_url)
+
 ## 🎯 Goal
 
 To continuously improve my technical skills through
