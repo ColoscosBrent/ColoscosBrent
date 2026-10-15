@@ -40,9 +40,9 @@ programming, networking, and computer engineering skills.
 
 Issued: September 11, 2026
 
-🏅 [View Credly Badge](https://www.credly.com/badges/d6a93792-5fe2-418d-a139-7cfd26f1ca89/public_url)
+- 🏅 [View Credly Badge](https://www.credly.com/badges/d6a93792-5fe2-418d-a139-7cfd26f1ca89/public_url)
 
-📄 [View Certificate](./Cisco-NetAcad-Cybersecurity-Certificate.pdf)
+- 📄 [View Certificate](./Cisco-NetAcad-Cybersecurity-Certificate.pdf)
 
 **TESDA Computer Systems Servicing NC II Certificates**
 
@@ -59,9 +59,8 @@ Issued: October 15, 2026
 
 issued: September 22,2026
  
-🏅 [View Credly Badge](https://www.credly.com/badges/333db032-5e68-4918-ae34-447f04bbbc3a/public_url)
-
-📄 [View Certificate](./Cisco-Greenhouse-Gas-Accounting-for-IT-Certificate.pdf)
+- 🏅 [View Credly Badge](https://www.credly.com/badges/333db032-5e68-4918-ae34-447f04bbbc3a/public_url)
+- 📄 [View Certificate](./Cisco-Greenhouse-Gas-Accounting-for-IT-Certificate.pdf)
 
 ## 🎯 Goal
 
