@@ -44,6 +44,16 @@ Issued: September 11, 2026
 
 📄 [View Certificate](./Cisco-NetAcad-Cybersecurity-Certificate.pdf)
 
+**TESDA Computer Systems Servicing NC II Certificates**
+
+Issued: October 15, 2026
+
+- 📄 [Installing and Configuring Computer Systems](./TESDA-Installing-and-Configuring-Computer-Systems.pdf)
+- 📄 [Introduction to Computer Systems Servicing](./TESDA-Introduction-to-Computer-Systems-Servicing.pdf)
+- 📄 [Maintaining Computer Systems](./TESDA-Maintaining-Computer-Systems.pdf)
+- 📄 [Setting Up Computer Networks](./TESDA-Setting-Up-Computer-Networks.pdf)
+- 📄 [Setting Up Computer Servers](./TESDA-Setting-Up-Computer-Servers.pdf)
+
 
 **Greenhouse Gas Accounting Certificate**
 
