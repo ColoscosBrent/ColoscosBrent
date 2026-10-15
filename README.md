@@ -48,7 +48,7 @@ Issued: September 11, 2026
 
 Issued: October 15, 2026
 
-📄 [View Certificate](./TESDA-NCII-Cert.  (Setting Up Computer Networks.pdf))
+
 
 
 **Greenhouse Gas Accounting Certificate**
