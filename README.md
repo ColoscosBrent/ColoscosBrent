@@ -48,7 +48,7 @@ Issued: September 11, 2026
 
 Issued: October 15, 2026
 
-📄 [View Certificate](./NCII-Cert. (Setting Up Computer Networks.pdf))
+📄 [View Certificate](./TESDA NCII Cert.  (Setting Up Computer Networks.pdf))
 📄 [View Certificate]
 📄 [View Certificate]
 📄 [View Certificate]
