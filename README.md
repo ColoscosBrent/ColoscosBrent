@@ -44,12 +44,6 @@ Issued: September 11, 2026
 
 📄 [View Certificate](./Cisco-NetAcad-Cybersecurity-Certificate.pdf)
 
-**Tesda Computer System Servicing NC II Certificates:**
-
-Issued: October 15, 2026
-
-
-
 
 **Greenhouse Gas Accounting Certificate**
 
