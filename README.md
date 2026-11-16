@@ -52,6 +52,14 @@ issued: September 22,2026
 - 🏅 [View Credly Badge](https://www.credly.com/badges/333db032-5e68-4918-ae34-447f04bbbc3a/public_url)
 - 📄 [View Certificate](./Cisco-Greenhouse-Gas-Accounting-for-IT-Certificate.pdf)
 
+**Junior Cybersecurity Analyst Career Path**
+
+Issued: November 4, 2026
+
+- 🏅 [View Credly Badge](https://www.credly.com/badges/4ea5b8b1-14df-49f6-977d-854c39da0893/public_url)
+- 📄 [View Certificate](./Cisco-Junior-Cybersecurity-Analyst-Certificate.pdf)
+  
+
 ### 🔐 TESDA NC II
 
 **TESDA Computer Systems Servicing NC II Certificates**
